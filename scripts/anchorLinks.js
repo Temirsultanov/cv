@@ -1,7 +1,14 @@
-const SECTION_PADDING = 70;
-const HEADER_HEIGHT = 100;
-const ADDITIONAL_OFFSET = 20;
-const OFFSET = HEADER_HEIGHT - SECTION_PADDING + ADDITIONAL_OFFSET;
+const BREAKPOINT = 850;
+
+let SECTION_PADDING = 70;
+let HEADER_HEIGHT = 100;
+let ADDITIONAL_OFFSET = 20;
+
+if (window.innerWidth < BREAKPOINT) {
+    HEADER_HEIGHT = 60;
+}
+
+const OFFSET = HEADER_HEIGHT - SECTION_PADDING + ADDITIONAL_OFFSET;;
 
 const header = document.querySelector(".header");
 const headerAnchorLinks = header.querySelectorAll(".anchorLink");
