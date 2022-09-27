@@ -7,7 +7,7 @@ Muhámmad, 20 years old. I have a freelance [experience](https://freelance.habr.
 ## Skills
 - HTML, CSS: fluent
 - Javascript: high level due reading 2 part and some chapters of the [javascript.info](https://javascript.info)
-- Vue: middle level due reading ~70% of [documentation](https://vuejs.org) and [course](https://www.youtube.com/watch?v=4XTy6ucbLNg&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw) by Ilya Klimov
+- Vue: middle level due reading ~70% of [documentation](https://vuejs.org/guide) and [course](https://www.youtube.com/watch?v=4XTy6ucbLNg&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw) by Ilya Klimov
 - Git: typical basic usage — init, commit, push, pull, checkout, status etc.
 - Touched: React, Angular, Python, PHP
 - SQL: the ability to write regular sql-queries
