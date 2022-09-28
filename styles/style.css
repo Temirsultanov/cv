@@ -16,7 +16,8 @@ body {
     --black: #262626;
     --grey: #e5e5e5;
     --darkGrey: #666666;
-    --green: #178a7e;
+    /* --green: #178a7e; */
+    --green: #178075;
     --darkGreen: #115952;
     --containerWidth: 800px;
     --textWidth: 680px;
