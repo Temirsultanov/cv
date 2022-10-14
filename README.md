@@ -1,3 +1,5 @@
+Github Pages — [https://temirsutanov.github.io/cv](https://temirsutanov.github.io/cv)
+
 # Muhammad Temirsultanov
 Frontend Developer
 
@@ -27,9 +29,7 @@ Github Pages — [https:/temirusltanov.github.io/habitracker](https:/temirusltan
    Technologies: Yandex Map, JS
 3. [Prytek](https://temirsultanov.github.io/prytek/) — multipage corporative website. Was [redesigned](https://prytek.com) after me.
    Technologies: HTML, CSS, JS
-4. [Rodnie Goroda](https://rodnyegoroda.ru/) — corporative website. I wrote animations on the homepage.
-   Technologies: HTML, CSS, JS
-5. [Reshu Test](https://reshutest.ru) — landing for the exam preparation app. Was partially redesigned.
+4. [Reshu Test](https://reshutest.ru) — landing for the exam preparation app. Was partially redesigned.
    Techologies: HTML, CSS, JS
 
 ## Contacts and Other Links
