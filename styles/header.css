@@ -48,12 +48,12 @@
     gap: 8px;
 
     border-radius: 6px;
-    background-color: var(--green);
+    background-color: var(--accent);
     color: var(--white);
 }
 
 .header__link-big:hover {
-    background-color: var(--darkGreen);
+    background-color: var(--accentDark);
 }
 
 .header__links-mobile {
