@@ -32,7 +32,7 @@ body {
 
     background-color: var(--white);
     color: var(--black);
-    font-family: "GT Esti";
+    font-family: "GT Esti", sans-serif;
     line-height: 1.4;
 }
 ::selection {
