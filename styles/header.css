@@ -42,7 +42,7 @@
 
 .header__link-big {
     height: 50px;
-    padding: 0 20px;
+    padding: 0 30px;
 
     justify-content: space-between;
     gap: 8px;
@@ -102,11 +102,13 @@
         justify-content: center;
         gap: 7px;
     }
+    .header__link-big span {
+        margin-top: 1px;
+    }
 
     .header__telegramIcon {
         width: 12px;
         height: auto;
-        margin-bottom: 1px;
     }
 
     .header__downloadIcon {
