@@ -3,14 +3,17 @@
     font-weight: 700;
     src: url("../fonts/GTEestiProDisplay-Bold.ttf");
 }
+
 @font-face {
     font-family: "GT Esti";
     font-weight: 400;
     src: url("../fonts/GTEestiProDisplay-Regular.ttf");
 }
+
 * {
     box-sizing: border-box;
 }
+
 body {
     --containerWidth: 800px;
     --textWidth: 680px;
@@ -35,45 +38,69 @@ body {
     font-family: "GT Esti", sans-serif;
     line-height: 1.4;
 }
+
 ::selection {
     background-color: var(--accent);
     color: var(--white);
 }
-h1,h2,h3,h4,h5,h6,p,pre {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre {
     margin: 0;
 }
-ul, ol {
+
+ul,
+ol {
     list-style: none;
     margin: 0;
     padding: 0;
 }
+
 a {
     color: inherit;
     text-decoration: none;
 }
+
 .title {
     font-size: 40px;
     font-weight: 700;
 }
+
+.subtitle {
+    margin-top: 30px;
+    font-size: 30px;
+}
+
 .text {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
 }
+
 .link {
     color: var(--accent);
     text-decoration: underline;
 }
+
 .link:hover {
     color: var(--accentDark);
 }
+
 .logo {
     width: 85px;
     height: auto;
 }
-.logo path{
+
+.logo path {
     stroke: var(--logoColor);
 }
+
 .list {
     padding-left: 30px;
 
@@ -81,19 +108,23 @@ a {
     flex-direction: column;
     align-items: flex-start;
 }
+
 .list__item .text {
     position: relative;
 }
+
 .list__item .text::before {
     position: absolute;
     top: -3px;
     left: -29px;
-    
+
     content: "— ";
 }
+
 .list__item:not(:last-child) {
     margin-bottom: 8px;
 }
+
 .list__item-separate {
     margin-top: 30px;
 }
@@ -103,21 +134,26 @@ a {
         --containerWidth: 335px;
         --textWidth: var(--containerWidth);
     }
+
     .title {
         font-size: 35px;
         text-align: center;
     }
+
     .text {
         font-size: 16px;
         text-align: center;
     }
+
     .logo {
         width: 60px;
     }
+
     .list {
         padding-left: 0px;
         align-items: center;
     }
+
     .list__item {
         text-align: center;
     }
