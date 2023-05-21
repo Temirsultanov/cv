@@ -73,6 +73,7 @@ a {
 }
 
 .subtitle {
+    text-align: left;
     margin-top: 30px;
     font-size: 30px;
 }
@@ -137,24 +138,13 @@ a {
 
     .title {
         font-size: 35px;
-        text-align: center;
     }
 
     .text {
         font-size: 16px;
-        text-align: center;
     }
 
     .logo {
         width: 60px;
-    }
-
-    .list {
-        padding-left: 0px;
-        align-items: center;
-    }
-
-    .list__item {
-        text-align: center;
     }
 }
