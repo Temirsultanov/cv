@@ -83,8 +83,16 @@
         padding-bottom: 60px;
     }
 
-    .skills__list {
-        width: 300px;
+    .block {
+        padding-top: 50px;
+    }
+
+    .block__title {
+        margin-bottom: 10px;
+    }
+
+    .projects>div:not(:last-child) {
+        margin-bottom: 20px;
     }
 
     .vue .block__text {

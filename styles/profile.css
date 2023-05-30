@@ -27,26 +27,15 @@
 
 @media (max-width: 850px) {
     .profile {
-        flex-direction: column;
-    }
-
-    .profile__photo {
-        width: 200px;
-        object-fit: cover;
-        object-position: 0% 30%;
-        height: 150px;
-        border-radius: 6px;
-        margin-bottom: 20px;
-        margin-right: 0;
+        align-items: center;
     }
 
     .profile__title {
-        margin-top: 10px;
-        font-size: 35px;
+        margin-top: 0px;
+        font-size: 30px;
     }
 
     .profile__position {
-        margin-top: 8px;
-        font-size: 18px;
+        display: none;
     }
 }
