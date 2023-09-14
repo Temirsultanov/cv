@@ -1,4 +1,4 @@
-Github Pages — [https://temirsutanov.github.io/cv](https://temirsutanov.github.io/cv)
+Github Pages — [https://temirsultanov.github.io/cv](https://temirsultanov.github.io/cv)
 
 # Muhammad Temirsultanov
 Frontend Developer
