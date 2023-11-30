@@ -22,8 +22,8 @@ body {
     --black: #262626;
     --grey: #e5e5e5;
     --darkGrey: #666666;
-    --accent: #036894;
-    --accentDark: #094965;
+    --accent: #19449E;
+    --accentDark: #103490;
     /* --accent: #178075; */
     /* --accentDark: #115952; */
 
@@ -75,7 +75,7 @@ a {
 .subtitle {
     text-align: left;
     margin-top: 30px;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .text {

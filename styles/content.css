@@ -98,12 +98,4 @@
     .vue .block__text {
         width: var(--textWidth);
     }
-
-    .vue__images {
-        width: var(--containerWidth);
-    }
-
-    .vue__images .swiper-wrapper {
-        width: 650px;
-    }
 }
